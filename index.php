@@ -66,7 +66,7 @@ require "config.php";
         $pagina = $param[0];
         $id = $param[1] ?? NULL;
       }
-      $pagina = "paginas/{$pagina}.php";
+      $pagina = "{$pagina}.php";
       if (file_exists($pagina)) {
         require $pagina;
       } else {
