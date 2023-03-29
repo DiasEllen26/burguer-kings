@@ -12,7 +12,7 @@
                     <h1 class="titulo">Burger King®</h1>
                     <hr class="separador"><br>
                     <p>Os Melhores Combos com os Melhores Preços que preparamos para Você. Venha descobrir!</p>
-                    <a class="mbtn1 btn" href ="paginas/produtos">Todos os produtos</a>
+                    <a class="mbtn1 btn" href ="produtos">Todos os produtos</a>
             </div>
     </div>
 </div>
